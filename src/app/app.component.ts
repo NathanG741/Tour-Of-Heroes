@@ -11,4 +11,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Tour Of Heroes';
+  body = 'This is a body';
 }
